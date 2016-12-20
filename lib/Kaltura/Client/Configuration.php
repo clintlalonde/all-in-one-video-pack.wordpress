@@ -34,7 +34,7 @@ class Kaltura_Client_Configuration
 {
 	private $logger;
 
-	public $serviceUrl    				= "http://www.kaltura.com/";
+	public $serviceUrl    				= "http://admin.video.ubc.ca/";
 	public $partnerId    				= null;
 	public $format        				= Kaltura_Client_ClientBase::KALTURA_SERVICE_FORMAT_XML;
 	public $clientTag 	  				= "php5zend:16-05-22";

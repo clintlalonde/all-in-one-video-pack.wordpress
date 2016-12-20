@@ -4,7 +4,7 @@ if ( ! defined( 'ABSPATH' ) ) {// to be on the safe side
 }
 
 return array(
-	'server_url'                   => ( is_ssl() ) ? 'https://www.kaltura.com' : 'http://www.kaltura.com',
+	'server_url'                   => ( is_ssl() ) ? 'https://admin.video.ubc.ca' : 'http://admin.video.ubc.ca',
 	'cdn_url'                      => ( is_ssl() ) ? 'https://cdn.kaltura.com' : 'http://cdn.kaltura.com',
 	'anonymous_user_id'            => 'Anonymous',
 	'kcw_ui_conf_id_admin'         => 15333782,

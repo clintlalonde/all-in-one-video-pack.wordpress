@@ -46,7 +46,7 @@
 			return {
 				longname : 'All in One Video Pack',
 				author   : 'Kaltura',
-				authorurl: 'http://www.kaltura.com',
+				authorurl: 'http://admin.video.ubc.ca',
 				infourl  : 'http://corp.kaltura.com',
 				version  : "1.0"
 			};
